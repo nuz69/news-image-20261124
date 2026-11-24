@@ -1,6 +1,6 @@
-[![make.fun competition](https://make.fun/badge/competition/news-image-20261124.svg)](https://make.fun/competitions/news-image-20261124)
-[![make.fun entry](https://make.fun/badge/entry/news-image-20261124.svg)](https://make.fun/competitions/news-image-20261124/entries/nuz69)
-[![make.fun author](https://make.fun/badge/author/nuz69.svg)](https://make.fun/competitions/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/nuz69/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/nuz69/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 # news-image-20261124
 
